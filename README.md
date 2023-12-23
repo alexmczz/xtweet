@@ -4,7 +4,7 @@ using gui applications is annoying...tweet with your cli!
 
 
 ## Usage
-python xweet.py <message>
+`python xweet.py <message>`
 
 
 
