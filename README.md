@@ -1,14 +1,17 @@
 # xtweet
 using gui applications is annoying...tweet with your cli!
 
+---
 
-##Usage
+## Usage
 python xweet.py <message>
 
+---
 
-##note
+## Note
 to use this program you will need your access keys.
 if you dont have your access keys or a twitter developer account go to https://developer.twitter.com/
 
+---
 
 happy coding!
